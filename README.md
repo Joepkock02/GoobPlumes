@@ -5,4 +5,4 @@ It also includes a plugin that makes it possible to switch the plumes via an Act
 
 Plume Templates by Goob,
 Config files by Joep,
-Action Group plugin by Joep and SofieBrink
+and the Action Group plugin made by Joep and SofieBrink
